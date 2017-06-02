@@ -13,5 +13,5 @@ Setup
 5. From the root of the project, run <code>install.cmd</code> as an Administrator. This will create a needed symlink to a folder in the manager's Laravel backend.
 
 Execution
-1. From the root of the project, run <code>run.exe</code>.
+1. From the root of the project, run <code>run.cmd</code>.
 2. If everything was configured and set up correctly you should see an automated Chrome window open and begin to walk through the registration process. Once the process completes Chrome will automatically close and you will receive a "success" message in the terminal.
