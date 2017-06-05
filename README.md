@@ -11,7 +11,7 @@ Setup
 <li>Navigate to the <code>config</code> folder and open the <code>config.json</code> file</li>
 <li>Provide your UA Little Rock NetID and Password in the Auth section.<br>You can also change the name of the CSV file that the manager looks for in the <code>config</code> folder (this is optional).<br>Save and close the file.</li>
 <li>Open the <code>iot-devices.csv</code> file also located in the <code>config</code> folder.<br>This is where you will provide the MAC addresses and hostnames of the devices you want to register with the IoT network.
-<br><br>The first column must contain the MAC address for the device you want to register.<br>The second column must contain the hostname.<br><span style="color:red;">Do not provide column headers</span><br><br>
+<br><br>The first column must contain the MAC address for the device you want to register.<br>The second column must contain the hostname.<br><br><span style="color:red;">Do not provide column headers</span><br><br>
 <table style="width:100%">
 <tr>
 <td>00-00-00-00-00-00</td>
