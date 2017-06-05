@@ -20,7 +20,12 @@ Setup
 </table>
 </li>
 
-<li>From the root of the project, run <code>install.cmd</code> as an Administrator.<br />This will generate the <code>run.cmd</code> file and create the <code>./vendor => ./app/laravel/iotmgmt/vendor</code> symlink.</li>
+<li>From the root of the project, run <code>install.cmd</code> as an Administrator.<br />This will:
+<ul>
+<li>generate the <code>run.cmd</code> file</li>
+<li>create the <code>vendor => app\laravel\iotmgmt\vendor</code> symlink</li>
+<li>move the <code>install.cmd</code> file to the <code>app\scripts</code> folder</li>
+</ul></li>
 </ol>
 
 Execution
