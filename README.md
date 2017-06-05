@@ -1,4 +1,4 @@
-# IOT Access Manager for Windows
+# IoT Access Manager for Windows
 Allows bulk registration of devices via the UA Little Rock IoT Access Portal
 -
 
