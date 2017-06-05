@@ -9,3 +9,5 @@ echo @echo off >> %~dp0\run.cmd
 echo app\php\windows\php.exe app\laravel\iotmgmt\artisan iot:register >> %~dp0\run.cmd
 
 echo pause >> %~dp0\run.cmd
+
+move /Y %~dp0\install.cmd %~dp0\app\scripts
