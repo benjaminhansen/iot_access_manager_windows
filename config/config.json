@@ -3,6 +3,6 @@
 		"username": "",
 		"password": ""
 	},
-	
+
 	"device_file": "iot-devices.csv"
 }

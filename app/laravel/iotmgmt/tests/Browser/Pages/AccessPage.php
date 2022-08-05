@@ -66,7 +66,7 @@ class AccessPage extends BasePage
                     ->type('mac', $mac)
                     ->type('visitor_name', $name)
                     ->check('creator_accept_terms')
-                    ->click('#ID_form2ca596b7_mac_create_submit')
+                    ->click('#ID_form79380b72_mac_create_submit')
                     ->assertSee('Successfully added new device')
                     ->clickLink('Add new device');
         }
